@@ -1,0 +1,17 @@
+		BODY{background-color:lightblue}
+		H1{text-align:center;}
+		H2{text-align:center;
+			border:0px;
+			font-size:1.5vw;}
+		.elem{border: 1px solid black;}
+		.elem_weight{
+			text-align:right;
+			font-size:1.2vmin;
+			border:1px;}
+		.elem_nb{text-align:left;
+			font-size:1.2vmin;
+			border:0px;}
+		TD{height:2vmin;
+			width:2vmin;
+			border:2px;}
+

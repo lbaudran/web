@@ -1,0 +1,50 @@
+			BODY{background-color:#505050;}
+			.dayof{
+				width:1200px;
+				height:150px;
+				background-color:#909090;
+				border:5px solid #909090;
+				border-radius:10px;
+				box-shadow:10px 10px 10px black;}
+				.bann_hor{
+				height:450px;
+				width:150px;
+				background-color:#909090;
+				border:5px solid #909090;
+				border-radius:10px;
+				box-shadow:10px 10px 10px black;}
+				.dayof42{
+				width:400px;
+				margin-bottom:auto;}
+				.arrow{
+				width:75px;
+				margin-top:10px;}
+				.hand{
+				width:75px;
+				margin-top:10px;}
+				.outil{
+				width:75px;
+				margin-top:15px;}
+				.chat{
+				width:75px;
+				margin-top:15px}
+				.oeil{
+				border:red solid 5px;
+				border-radius:5px;
+				width:75px;
+				margin-top:15px}
+			.cadre{width:700px;
+				height:550px;
+				background-color:#909090;
+				border:7px solid #909090;
+				border-radius:10px;
+				box-shadow:10px 10px 10px black;
+			}
+			.green_windows{position:relative;
+				border:solid 5px #7bea7b;
+				background-color:#7bea7b;
+				border-radius:10px;
+				box-shadow: 10px 10px 10px black;
+				height:150px;
+				width:500px;}
+

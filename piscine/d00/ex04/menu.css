@@ -1,0 +1,30 @@
+	.navigation{
+		padding:0;
+	}
+	.navigation ul{
+		padding:0;
+		left:-999em;
+		list-style:NONE;
+		position:absolute;}
+	.navigation li{
+		display:inline-block;
+		position:relative;
+	}
+	.navigation a{
+		display:block;
+		width:150px;
+		height:30px;
+		text-align:center;
+		background:pink;
+		border-color:black 2px;
+		border-radius:3;
+	}
+	.navigation li:hover > ul{left:0;}
+	.navigation li li:hover > ul{
+		left:150px;
+		top:0;}
+	.navigation a:hover {
+		color:#666;
+		background:#ccc;}
+	a{color:inherit;
+	text-decoration:NONE;}
